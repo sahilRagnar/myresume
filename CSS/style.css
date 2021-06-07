@@ -1,0 +1,66 @@
+body{
+  text-align: center;
+  font-family: 'Sacramento', cursive
+}
+
+
+
+.introduction-section{
+  background-color: #e3fdfd;
+  padding-top: 100px;
+  position: relative;
+}
+
+
+.middle-container {
+ background-color: #cbf1f5;
+}
+
+
+.bottom-container{
+ background-color: #a6e3e9;
+}
+
+.first-cloud{
+  position: absolute;
+  right:30%;
+  top:11%;
+}
+
+.second-cloud{
+  position: absolute;
+  left:35%;
+  top:37%;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+p{
+    font-family: 'Merriweather', serif;
+}
+
+.middle-container{
+  padding-top: 50px;
+}
+
+.skills-images{
+  width: 50px;
+}
+
+.btn {
+font-family: 'Sacramento', cursive
+}
+
+.skills h2{
+  display: inline-block;
+}
+
+.footer-text{
+  font-family: sans-serif;
+}
+
+.contactmeicons{
+  width: 30px;
+}
