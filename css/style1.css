@@ -1,0 +1,46 @@
+body{
+  text-align: center;
+  font-family: 'Sacramento', cursive
+}
+
+.introduction-section{
+  background-color: #eba83a;
+  padding-top: 100px;
+  position: relative;
+}
+
+.first-cloud{
+  position: absolute;
+  right:400px;
+  top:50px;
+}
+
+.second-cloud{
+  position: absolute;
+  left:400px;
+  top:200px;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+p{
+    font-family: 'Merriweather', serif;
+}
+
+.middle-container{
+  padding-top: 50px;
+}
+
+.skills-images{
+  width: 50px;
+}
+
+.btn {
+font-family: 'Sacramento', cursive
+}
+
+.skills h2{
+  display: inline-block;
+}
